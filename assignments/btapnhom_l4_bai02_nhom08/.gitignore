@@ -1,0 +1,17 @@
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/bin/
+**/obj/
+**/.vs/
+**/ephemeral/
+
+.env
+.env.*
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/secrets.json
+
+**/*.bak
+**/*.mdf
+**/*.ldf
